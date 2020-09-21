@@ -1,0 +1,24 @@
+{
+  "name": "fbl-generators",
+  "title": "Forbidden Lands Generators",
+  "description": "Adds random generators, sourced from around the web, as convenient Journal Entries. Thanks go to Jan Sjögren and Lupex of the Forbidden Lands community for creating the random generators.",
+  "author": "aMediocreDad",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.6.5",
+  "systems": [
+    "forbidden-lands"
+  ],
+  "packs": [
+    {
+      "name": "fbl-generators",
+      "label": "Forbidden Lands Generators",
+      "path": "packs/fbl-generators.db",
+      "entity": "JournalEntry",
+      "module": "fbl-generators"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
