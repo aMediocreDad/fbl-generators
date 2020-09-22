@@ -3,7 +3,7 @@
   "title": "Forbidden Lands Generators",
   "description": "Adds random generators, sourced from around the web, as convenient Journal Entries. Thanks go to Jan Sjögren and Lupex of the Forbidden Lands community for creating the random generators.",
   "author": "iAmbrosius",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "minimumCoreVersion": "0.6.5",
   "compatibleCoreVersion": "0.6.5",
   "systems": [
