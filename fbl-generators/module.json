@@ -19,6 +19,6 @@
     }
   ],
   "url": "https://github.com/iAmbrosius/fbl-generators",
-  "manifest": "https://raw.githubusercontent.com/iAmbrosius/fbl-generators/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/iAmbrosius/fbl-generators/master/fbl-generators/module.json",
   "download": "https://github.com/iAmbrosius/fbl-generators/archive/master.zip"
 }
