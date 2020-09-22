@@ -3,7 +3,7 @@ A FoundryVTT mod for the Forbidden Lands system. Adds random generators, sourced
 
 ## Installation
 
-Manifest URL: `https://raw.githubusercontent.com/iAmbrosius/fbl-generators/master/module.json`
+Manifest URL: `https://raw.githubusercontent.com/iAmbrosius/fbl-generators/master/fbl-generators/module.json`
 
 ## Journal Entries
 
